@@ -1,4 +1,4 @@
-# LightBox Gallery
+# LF LightBox Gallery
 
 Features: 
 1. Gallery Grid
