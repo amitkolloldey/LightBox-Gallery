@@ -1,0 +1,616 @@
+
+
+.g-offcanvas-toggle { 
+    color: #C4151C!important;
+}
+.products_header {
+    height: auto;
+    background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/NERY-produtos.jpg)no-repeat 100% 100%/100% 100%!important;
+    min-height: 400px;
+}
+.page.page-id-331 .products_header {
+    height: auto;
+    background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/qualidade-nery-imagem-home-1960x955-1.jpg)no-repeat 100% 100%/100% 100%!important;
+    min-height: 500px;
+}
+
+.page-template-lf_products_template section#g-features {
+    background: #F3EDBB!important;
+}
+.page-id-96 #g-features h2.entry-title {
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: #C5161D;
+}
+.page-id-96 #g-features {
+    padding: 0!important
+}
+.single_product {
+    width: 24.7%;
+    display: inline-block;
+    padding: 1% .5%;
+    text-align: center;
+}
+.single_product img {
+    width: 100%!important;
+}
+.single_product h2 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 5px 0;
+    color: #000;
+}
+.single_product a.lf_con {
+    text-align:  center;
+    display: inline-block;
+    color:  #C5161D;
+    border: 2px solid;
+    padding: 2px 10px;
+    line-height: 18px;
+    font-size: 14px;
+}
+iframe {
+    height: 100%;
+}
+.owl-nav {
+    display: block!important;
+    
+}
+ #g-navigation .g-main-nav .g-toplevel > li {
+    margin: 0 1.5rem!important;
+}
+#g-navigation .g-main-nav .g-toplevel { 
+    text-align: center!important;
+}
+#g-navigation .g-main-nav .g-toplevel > li.active > .g-menu-item-container > .g-menu-item-content {
+    box-shadow: none!important;
+    letter-spacing: 5px
+}
+.owl-prev {
+    background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/seta-layout-original-LEFT.png)no-repeat 100% 100%/100%;
+    height: 60px!important;
+    width: 60px!important;
+    border-radius:  0!important;
+    border: none!important;
+    font-size:  0!important; 
+    opacity: .8!important;
+}
+.owl-next {
+    background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/seta-layout-original-RIGHT.png)no-repeat 100% 100%/100%;
+    height: 60px!important;
+    width: 60px!important;
+    border-radius:  0!important;
+    border: none!important;
+    font-size:  0!important; 
+    opacity: .8!important;
+}
+
+.owl-next:hover {
+    opacity: 1!important;
+    background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/seta-layout-original-RIGHT.png)no-repeat 100% 100%/100%!important;
+}
+
+.owl-prev:hover {
+    opacity: 1!important;
+    background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/seta-layout-original-LEFT.png)no-repeat 100% 100%/100%!important;
+}
+.page.page-id-16 #g-navigation {
+    box-shadow: 10px 10px 10px 10px rgba(0,0,0,.2);
+    background: rgba(0,0,0,.2)!important;
+}
+.page-id-331 section#g-features {
+    padding: 0!important;
+}
+div#custom-8645-particle {
+    height: 100%;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 10px 0 0 0;
+}
+#logo-2574-particle .g-logo,#logo-6181-particle .g-logo {
+    margin-top: -15px;
+    display: inline-block;
+}
+button#pirate-forms-contact-submit {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #C5161D
+}
+#custom-8645-particle .fp-features {
+    height: 100%;
+}
+.g-home-particles.g-helium-style #g-header {
+    margin-top: -11rem!important; 
+}
+div#logo-3641-particle {
+    margin: 0!important; 
+    padding: 0!important; 
+}
+/*.elementor-default section#g-features {
+    padding: 0;
+    background: #F3EEBC;
+}
+.elementor-default h2.entry-title {
+    margin: 0;
+    text-align: center;
+    color: #C4141B;
+    font-size: 34px;
+    font-weight: 900;
+    text-transform: uppercase;
+}*/
+.single-p_products,.single-p_products #g-page-surround,.single-p_products #g-mainbar ,.page-template-lf_qualidade_nery #g-page-surround,.page-template-lf_qualidade_nery #g-mainbar{
+	background: #DCDDDF!important
+}
+.single-p_products #g-container-main .g-block.size-50,.page-template-lf_qualidade_nery #g-container-main .g-block.size-50{
+    width: 100%!important;
+    flex: 100%!important
+}
+.single-p_products #g-container-main .g-block.size-25,.page-template-lf_qualidade_nery #g-container-main .g-block.size-25 {
+    display: none!important;
+}
+
+.single-p_products #g-intro,.page-template-lf_qualidade_nery #g-intro{
+    display: none!important;
+}
+.single_slider,.single_content {
+    float:  left;
+    display:  inline-block;
+}
+
+.single_slider {
+    width: 65%;
+}
+
+.single_content {
+    width:  35%;
+    padding: 0 30px;
+}
+
+h2.single_product_title {
+    color: #C5161D;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 0 0 20px 0;
+    padding: 0 10px;
+}
+
+.single_content ul {
+    margin: 0;
+}
+.single_main_content {
+    height: 300px;
+    overflow-y: scroll;
+    padding: 10px;
+    margin: 65px 0;
+}
+a.fancyclose {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    z-index: 999999;
+}
+div#lf_single_wrapper {
+    display: inline-block;
+    padding: 50px 0;
+}
+#lf_single_wrapper .bx-wrapper {
+    width: 65%;
+    border: none;
+    box-shadow: none;
+    float: left;
+    margin-bottom: 0!important;
+    display: inline-block;
+    padding: 0 20px 20px 40px;
+    background: none;
+    position: relative;
+}
+.single.single-p_products section#g-navigation {
+    display: none;
+}
+a.bx-next {
+    left: 115px!important;
+}
+.bx-pager.bx-default-pager {
+    display: none;
+}
+.bx-wrapper .bx-controls-direction a {
+    top: 95%;
+}
+.single_slider {
+    width: 65%;
+    height: 100%;
+}
+.single_slider img {
+    height: 100%;
+}
+#lf_single_wrapper .bx-wrapper {
+    height: 500px!important;
+}
+
+#lf_single_wrapper
+.bx-viewport {
+    height: 100%!important;
+}
+ 
+.single.single-p_products footer#g-footer {
+    display: none;
+}
+.single.single-p_products .g-container {
+    width: 100%;
+}
+.lf_social {
+    position: absolute;
+    bottom: 0;
+    right: 5%;
+}
+#g-offcanvas {
+    background: #C5161D!important
+}
+#g-offcanvas #g-mobilemenu-container ul,#g-offcanvas #g-mobilemenu-container li {
+    background: #C5161D!important
+}
+.bx-wrapper .bx-controls-direction a {
+    top: 87%!important;
+}
+.bx-wrapper .bx-prev{
+	left: 50px;
+	background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/seta-layout-original-LEFT.png) no-repeat 100% 100%/100%;
+}
+.bx-wrapper .bx-next{
+	background: url(http://paesnery.marcoaacoliveira.com.br/wp-content/uploads/2018/02/seta-layout-original-RIGHT.png) no-repeat 100% 100%/100%}
+.bx-wrapper .bx-next:hover, .bx-wrapper .bx-next:focus {
+    background-position: inherit;
+}
+.single-p_products .g-offcanvas-toggle,.single-p_products #g-offcanvas {
+    display: none;
+}
+div#logo-7609-particle {
+    margin: 0!important;
+    padding: 0!important;
+}
+.lf_social {
+    position: absolute;
+    bottom: -15%;
+    right: 0%!important;
+    color: #C5161D; 
+}
+.bx-wrapper .bx-controls-direction a { 
+    width: 50px!important;
+    height: 50px!important;
+}
+.fancybox-toolbar { 
+    display: none!important 
+}
+button.fancybox-button.fancybox-button--close {
+    transform: scale(3);
+    background: none!important;
+    color: #C5161D;
+}
+button.fancybox-button.fancybox-button--fullscreen {
+    display: none!important;
+}
+
+button.fancybox-button.fancybox-button--share {
+    display: none!important;
+}
+.single_content {
+    position:  relative;
+    padding: 0;
+}
+
+.lf_social {
+    width:  100%;
+    text-align: right;
+}
+.floatingicon {
+    float:  left;
+}
+
+.share_left.floatingicon {
+    width: 65%;
+    font-weight: bold;
+}
+
+.share_right.floatingicon {
+    width: 35%;
+}
+ 
+ 
+.g-style-.p_products-template-default.single #g-mainbar {
+    padding: 0;
+
+}
+.g-style-.p_products-template-default.single::-webkit-scrollbar {
+    width: 10px;
+    visibility: hidden;
+}
+.single_main_content::-webkit-scrollbar {
+    width: 10px;
+    visibility: visible;
+}
+
+/* Track */
+.g-style-.p_products-template-default.single::-webkit-scrollbar-track ,.single_main_content::-webkit-scrollbar-track {
+    box-shadow: none; 
+    border-radius: 0px;
+    background: #fff;
+}
+.g-style-.p_products-template-default.single::-webkit-scrollbar-track,.g-style-.p_products-template-default.single::-webkit-scrollbar-thumb:hover, 
+{
+	visibility: hidden;
+}
+
+/* Handle */
+.g-style-.p_products-template-default.single::-webkit-scrollbar-thumb  {
+    background: #ddd; 
+    border-radius: 0px;
+}
+.single_main_content::-webkit-scrollbar-thumb{
+    background: #939598; 
+    border-radius: 0px;
+}
+/* Handle on hover */
+.g-style-.p_products-template-default.single::-webkit-scrollbar-thumb:hover,.single_main_content::-webkit-scrollbar-thumb:hover {
+    background: #222; 
+}
+.fancybox-slide--iframe .fancybox-content {  
+    max-height: calc(100% - 20px)!important 
+}
+.g-style-.p_products-template-default.single .g-content {
+    margin: 0!important;
+    padding: 20px!important;
+    display: inline-block;
+}
+
+.page.page-id-331 h2.entry-title {
+    display:  none;
+}
+
+.page.page-id-331 #g-features .g-content {
+    margin:  0;
+    padding: 0;
+}
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+.single_product {
+    width: 24.2%; 
+}
+.single_product h2 { 
+    font-size: 20px; 
+}
+.single_product a.lf_con { 
+    font-size: 14px;
+}  
+a.bx-next { 
+    left: 8%;
+}}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+.single_product {
+    width: 49%; 
+}
+.single_product h2 { 
+    font-size: 20px; 
+}
+.single_product a.lf_con { 
+    font-size: 14px;
+}   
+a.bx-next { 
+    left: 8%;
+} 
+.lf_social {
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+} 
+
+.g-style-.p_products-template-default.single {
+    overflow: visible;
+}
+.share_left.floatingicon {
+    width: 50%;
+    font-weight: bold;
+}
+
+.share_right.floatingicon {
+    width: 50%;
+} 
+#lf_single_wrapper .bx-wrapper {
+    height: auto!important;
+}
+.products_header {
+    min-height: 350px;
+}
+.page.page-id-331 .products_header {
+    min-height: 350px;
+}
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ .single_product {
+    width: 49%; 
+}
+.single_product h2 { 
+    font-size: 16px; 
+}
+a.bx-next { 
+    left: 12%
+} 
+
+.single_product a.lf_con { 
+    font-size: 12px;
+}  
+ #lf_single_wrapper .bx-wrapper {
+    width: 100%;
+}
+
+.single_content {
+    width:  100%;
+    padding: 0;
+}
+
+h2.single_product_title {
+    margin-bottom: 20px;
+}
+.fancybox-slide--iframe .fancybox-content { 
+    width: 100%!important; 
+    max-width:100%!important; 
+}
+.g-style-.p_products-template-default.single {
+    overflow: visible;
+}
+.share_left.floatingicon {
+    width: 50%;
+    font-weight: bold;
+}
+
+.share_right.floatingicon {
+    width: 50%;
+} 
+ #lf_single_wrapper .bx-wrapper {
+    height: auto!important;
+}
+#lf_single_wrapper .bx-wrapper { 
+    padding: 0!important 
+}
+.bx-wrapper .bx-prev {
+    left: 10px;
+}
+.products_header {
+    min-height: 200px;
+}
+.page.page-id-331 .products_header {
+    min-height: 200px;
+}
+div#social-9776-particle {
+    margin: -20px 0 0 0;
+    padding: 0;
+} 
+.owl-prev {
+    height: 20px!important;
+    width: 20px!important;
+}
+.owl-next {
+    height: 20px!important;
+    width: 20px!important;
+}
+#g-navigation { 
+    z-index: 1!important;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 300px) and (max-width: 767px) { 
+.single_product {
+    width: 49%; 
+}
+a.bx-next { 
+    left: 12%
+}
+
+.single_product h2 { 
+    font-size: 16px; 
+}
+.single_product a.lf_con { 
+    font-size: 12px;
+}  
+#lf_single_wrapper .bx-wrapper {
+    width: 100%;
+}
+
+.single_content {
+    width:  100%;
+    padding: 0;
+}
+
+h2.single_product_title {
+    margin: 20px 0 0 0;
+    font-size: 20px;
+}
+.bx-wrapper .bx-prev {
+    left: 10px;
+}
+a.bx-next { 
+    left: 12%!important;
+    right: auto!important;
+}
+.bx-wrapper .bx-controls-direction a { 
+    width: 30px!important;
+    height: 30px!important;
+}
+.lf_social {
+    position: static; 
+    right: 5%;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+.fancybox-slide--iframe .fancybox-content { 
+    width: 100%!important; 
+    max-width:100%!important; 
+}   
+.share_left.floatingicon {
+    width: 50%;
+    font-weight: bold;
+}
+
+.share_right.floatingicon {
+    width: 50%;
+}
+h2.single_title {
+    line-height: 16px;
+    height: 30px;
+    overflow: hidden;
+    margin: 5px 0 0 0;
+    font-size: 13px;
+}
+.g-style-.p_products-template-default.single {
+    overflow: visible;
+}
+.share_left.floatingicon {
+    width: 50%;
+    font-weight: bold;
+}
+
+.share_right.floatingicon {
+    width: 50%;
+} 
+#lf_single_wrapper .bx-wrapper {
+    height: auto!important;
+}
+#lf_single_wrapper .bx-wrapper { 
+    padding: 0!important 
+}
+.products_header {
+    min-height: 250px;
+}
+.page.page-id-331 .products_header {
+    min-height: 250px;
+}
+div#social-9776-particle {
+    margin: -20px 0 0 0;
+    padding: 0;
+}
+.owl-prev {
+    height: 20px!important;
+    width: 20px!important;
+}
+.owl-next {
+    height: 20px!important;
+    width: 20px!important;
+}
+#g-navigation { 
+    z-index: 1!important;
+}
+}
